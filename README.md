@@ -3,7 +3,7 @@
 This repository accompanies [*Mastering Retrieval-Augmented Generation*](https://www.link.springer.com/book/979-8-8688-1808-0) by Ranajoy Bose (Apress, 2025).
 
 [comment]: #cover
-![Cover image](979-8-8688-1807-3.jpg)
+![Cover image](979-8-8688-1808-0.jpg) 
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
